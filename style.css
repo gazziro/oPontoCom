@@ -1,0 +1,482 @@
+#fundo{
+  	background: snow;
+  	width: 1000px;
+  	height: 633px;
+  	margin: 20px;
+  	border: solid black 1px;
+
+}
+
+.letraBranca{
+	color: #FFFFFF;
+}
+
+.faixaTopo{
+	background: grey;
+  	width: 1000px;
+  	height: 120px;
+  	display: flex;
+  	align-items: center;
+}	
+
+#nomeSite{
+	margin-left: 15px;
+	font-family: Fahkwang;
+	font-size: 60px;
+	letter-spacing: 2px;
+}
+
+#pontos{
+	margin-left: 94px;
+	font-family: Comic Neue;
+	font-size: 30px;
+	line-height: 41px;
+	text-align: center;
+}
+
+.menu{
+	background: lightgrey;
+  	width: 260px;
+  	height: 514px;
+	position: relative;
+}
+
+.nomeMenu{
+	margin-left: 95px;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.botãoMenu{
+	width: 210px;
+	height: 41px;
+	margin-top: 15px;
+	margin-left: 25px;
+	background: #7D7D7D;
+	border-radius: 30px;
+
+}
+
+.imagensMenu{
+	height: 20px;
+	width: 20px;
+}
+
+#centro{
+	height: 514px;
+	width: 1000px;
+	margin-top: 634px;
+	margin-left: 260px;
+	position: absolute;
+}
+
+.direita{
+	float: right;
+	position: relative;
+}
+
+.margem{
+	margin-left: 50px;
+}
+
+.inputs{
+	border-radius: 10px;
+}
+
+#concluir{
+	width: 110px;
+	height: 41px;
+	margin-top: 15px;
+	margin-left: 25px;
+	background: #7D7D7D;
+	border-radius: 30px;
+
+}
+
+#logino{
+	width: 110px;
+	height: 41px;
+	margin-top: 15px;
+	margin-left: 25px;
+	border-radius: 30px;
+}
+
+.imagemLogin{
+	width: 85%;
+	height: 60px;
+}
+
+#CoD{
+	width: 120px;
+	height: 150px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+#RE4{
+	width: 120px;
+	height: 150px;
+	margin-top: 30px;
+	margin-left: 120px;
+}
+
+#Mine{
+	width: 120px;
+	height: 150px;
+	margin-top: 30px;
+	margin-left: 120px;
+}
+
+#Rckt{
+	width: 120px;
+	height: 150px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+.botCompra{
+	width: 102px;
+	height: 28px;
+	background: #40AAE6;
+	border-radius: 30px;
+}
+
+.BotEsq{
+	margin-left: 60px;
+}
+
+
+.BotDir{
+	margin-left: 140px;
+}
+
+.precoJogos{
+	font-family: Roboto;
+	font-style: bold;
+	font-weight: 300;
+	font-size: 20px;
+}
+
+.PJE{
+	margin-left: 70px;
+}
+
+.PJD{
+	margin-left: 175px;
+}
+
+#banner{
+	height: 35px;
+	width: 480px;
+	background: #E4E2E2;
+	font-family: Fahkwang;
+	font-size: 30px;
+	font-style: bold;
+	letter-spacing: 2px;
+}
+
+#CoD1{
+	width: 120px;
+	height: 140px;
+	margin-top: 5px;
+	margin-left: 50px;
+}
+
+#RE41{
+	width: 120px;
+	height: 140px;
+	margin-top: 5px;
+	margin-left: 120px;
+}
+
+#Mine1{
+	width: 120px;
+	height: 140px;
+	margin-top: 10px;
+	margin-left: 120px;
+}
+
+#Rckt1{
+	width: 110px;
+	height: 140px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.botEdt{
+	width: 92px;
+	height: 20px;
+	border: black solid 1px;
+	border-radius: 30px;
+	margin-top: 10px;
+}
+
+.ps5{
+position: absolute;
+width: 166px;
+height: 128px;
+left: 312px;
+top: 174px;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.texto_produto{
+position: absolute;
+width: 447px;
+height: 35px;
+left: 537px;
+top: 202px;
+border: 2px solid #000000;
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+.infos_produtos{
+position: absolute;
+width: 337px;
+height: 35px;
+left: 527px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.comprar{
+    position: absolute;
+    width: 115px;
+    height: 35px;
+    left: 845px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius:45px;
+}
+.cancelar{
+    position: absolute;
+    width: 115px;
+    height: 35px;
+    left: 645px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 45px;
+}
+.preco{
+position: absolute;
+width: 158px;
+height: 35px;
+left: 318px;
+top: 363px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #0CB9B9;
+}
+.infos_produtos2{
+position: absolute;
+width: 234px;
+height: 35px;
+left: 280px;
+top: 315px;
+
+font-family:'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.cupom{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 287px;
+top: 563px;
+display: flex;
+font-size: 25px;
+
+}
+.butao{
+    border:none; 
+    background: #FFFFFF;
+}
+.foto_perfil{
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 749px;
+    top: 173px;
+    border-radius: 90px;
+}
+.trocar_imagem_perfil{
+position: absolute;
+width: 153px;
+height: 42px;
+left: 747px;
+top: 315px;
+
+font-family: 'Sriracha';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 12px;
+display: flex;
+align-items: center;
+text-align: center;
+border: none;
+background-color: #FFFFFF;
+border-radius: 90px;
+color: #49D3FF;
+}
+.info_user{
+position: absolute;
+width: 155px;
+height: 27px;
+left: 298px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.aba_escrita{
+position: absolute;
+width: 320px;
+height: 38px;
+left: 306px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+.concluido{
+position: absolute;
+width: 100px;
+height: 22px;
+left: 783px;
+top: 521px;
+
+font-family: B612;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+position: absolute;
+width: 135px;
+height: 50px;
+left: 765px;
+top: 507px;
+
+background: #0AAE07;
+border-radius: 90px;
+}
+tbody {
+    border: 1px solid rgb(3, 3, 3);
+}
+.enviar{
+    position: absolute;
+    width: 115px;
+    height: 35px;
+	left: 405px;
+	top:558px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 45px;
+}
+.imagensMenu2{
+	width:100px;
+	height:80px;
+}
+
+.infos_produtos3{
+	position: absolute;
+	width: 234px;
+	height: 35px;
+	left: 520px;
+	top: 255px;
+	
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28px;
+	line-height: 35px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	color: #000000;
+	}
+
+	.infos_produtos4{
+		position: absolute;
+		width: 234px;
+		height: 35px;
+		left: 520px;
+		top: 255px;
+		
+		font-family:'Roboto';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 28px;
+		line-height: 35px;
+		display: flex;
+		align-items: center;
+		text-align: center;
+		
+		color: #000000;
+		}
+table{
+	position: relative;
+}
