@@ -7,9 +7,9 @@ class BancoDados
   private $conn;
 
   // private $host = 'localhost';
-  // private $user = 'id15455045_bancouser';
-  // private $pass = '@08Np3X@wzT(Nliw';
-  // private $dbname = 'id15455045_banco';  
+  // private $user = '***';
+  // private $pass = '***';
+  // private $dbname = 'banco_oPontoCom';  
   
   private $host = 'localhost';
   private $user = 'root';
